@@ -1,3 +1,4 @@
+# interface, recebe da controller a resposta dos dados.
 from controller import PessoaController
 
 while True:

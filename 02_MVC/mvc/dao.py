@@ -1,3 +1,4 @@
+# Faz acesso ao banco de dados ou arquivo para salvar ou ler dados
 from model import Pessoa
 
 class PessoaDao:

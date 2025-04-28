@@ -1,3 +1,4 @@
+# valida dos dados
 from dao import PessoaDao
 from model import Pessoa
 
